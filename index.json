@@ -1,26 +1,20 @@
 {
-    "name":"Alexandre Freire",
+    "name":"Jorge Luiz",
     "headline":"Desenvolvedor C# .NET",
-    "url_avatar":"https://avatars.githubusercontent.com/u/25771796?v=4",
+    "url_avatar":"https://avatars.githubusercontent.com/u/26613579?v=4",
     "background_color":"beige",
     "buttons":[
-        {
+         {
             "key":"linkedin",
             "title":"Linkedin",
             "description":"This is my profile!",
-            "url":"https://www.linkedin.com/in/oalexandrefreire/"
+            "url":"https://www.linkedin.com/in/jorge-luiz-de-jesus-paiva-junior-4b1800134"
         },
-        {
+         {
             "key":"github",
-            "title":"GitHub",
-            "description":"My open projects.",
-            "url":"https://github.com/oalexandrefreire"
-        },
-        {
-            "key":"dev",
-            "title":"Dev",
+            "title":"Dev .NET",
             "description":"The devs social network dev.to",
-            "url":"https://dev.to/alexandrefreire"
+            "url":"https://github.com/jorgepjr"
         }
     ]
 }
